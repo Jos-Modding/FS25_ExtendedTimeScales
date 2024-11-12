@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<modDesc descVersion="92">
+	<author>Jos</author>
+	<translators>Noraf, Miguel, Darindul</translators>
+	<version>1.0.0.0</version>
+	<title>
+		<en>Extended Time Scales</en>
+		<de>Erweiterte Zeitskalen</de>
+	</title>
+    <description>
+        <en><![CDATA[Adds more time scales to the available ones.
+Available time scales: 0, 0.5, 1, 2, 3, 5, 6, 10, 15, 30, 60, 120, 240, 360, 1000, 2000, 5000, 7500 and 10000.]]>
+		</en>
+		<de><![CDATA[Fügt den verfügbaren Zeitskalen weitere hinzu. Keine speziellen Tastenkombinationen erforderlich.
+Verfügbare Zeitskalen: 0, 0.5, 1, 2, 3, 5, 6, 10, 15, 30, 60, 120, 240, 360, 1000, 2000, 5000, 7500 und 10000.]]>
+		</de>
+		<nl><![CDATA[Meer tijdschalen / snelheden beschikbaar naast de standaard opties. Geen speciale toetscombinaties nodig.
+Beschikbare snelheden: 0, 0.5, 1, 2, 3, 5, 6, 10, 15, 30, 60, 120, 240, 360, 1000, 2000, 5000, 7500 en 10000.]]>
+		</nl>
+		<es><![CDATA[Añade más escalas de tiempo a las disponibles.
+Escalas de tiempo disponibles: 0, 0,5, 1, 2, 3, 5, 6, 10, 15, 30, 60, 120, 240, 360, 1000, 2000, 5000, 7500 y 10000.]]>
+		</es>
+		<no><![CDATA[Gir ekstra trinn på tidskala å velge fra.
+Tilgjengelige trinn: 0, 0.5, 1, 2, 3, 5, 6, 10, 15, 30, 60, 120, 240, 360, 1000, 2000, 5000, 7500 og 10000.]]>
+		</no>
+		<pl><![CDATA[Dodaje więcej opcji prędkości upływu czasu do aktualnie dostępnych.
+Dostępne opcje prędkości upływu czasu: 0, 0.5, 1, 2, 3, 5, 6, 10, 15, 30, 60, 120, 240, 360, 1000, 2000, 5000, 7500 oraz 10000.]]></pl>
+    </description>
+	<iconFilename>icon_ExtendedTimeScales.dds</iconFilename>
+	<multiplayer supported="true"/>
+	<extraSourceFiles>
+		<sourceFile filename="src/ExtendedTimeScales.lua"/>
+	</extraSourceFiles>
+</modDesc>
+
